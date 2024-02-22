@@ -1,0 +1,470 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1700829108927016, "dur":3030, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829108930059, "dur":90, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1700829108930187, "dur":32, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1700829108930219, "dur":236, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1700829108930493, "dur":895, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829108931388, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113881853, "dur":10, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113881863, "dur":14, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113881877, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113881880, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113881889, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113881891, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113881898, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113881900, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113881906, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113881955, "dur":4, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113881986, "dur":3777, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1700829108931146, "dur":253, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829108931402, "dur":8805, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829108940227, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1700829108940231, "dur":732, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829108940968, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1700829108940976, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829108942109, "dur":5407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1700829108947523, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1700829108947711, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829108948027, "dur":2398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1700829108950502, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1700829108950695, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829108950706, "dur":3160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1700829108953946, "dur":804, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1700829108954911, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829108955739, "dur":3012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1700829108958833, "dur":17935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1700829108976775, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829108976786, "dur":2173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1700829108979020, "dur":13936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1700829108992961, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829108992972, "dur":2173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1700829108995212, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1700829108995378, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829108995389, "dur":7141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1700829109002663, "dur":1114438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110117108, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829110117120, "dur":33196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110150397, "dur":25004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110175411, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829110175424, "dur":1671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110177158, "dur":45479, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110222681, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829110222693, "dur":1839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110224598, "dur":45122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110269729, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829110269743, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110271533, "dur":32420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110303970, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829110303988, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110306241, "dur":31559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110337809, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829110337822, "dur":1711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110339601, "dur":31596, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110371206, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829110371219, "dur":1621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110372912, "dur":25744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110398664, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829110398682, "dur":4198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110402950, "dur":81326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110484285, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829110484299, "dur":1777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110486140, "dur":56326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110542475, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829110542527, "dur":2674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110545307, "dur":162869, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110708185, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829110708200, "dur":5879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829110714145, "dur":359619, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829111073773, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829111073787, "dur":3228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829111077079, "dur":431778, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829111508865, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829111508878, "dur":6086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829111515023, "dur":58550, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829111573583, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829111573597, "dur":1894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829111575573, "dur":80338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829111655919, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829111655933, "dur":4203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829111660201, "dur":478061, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829112138270, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829112138284, "dur":3675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829112142023, "dur":400372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829112542404, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829112542418, "dur":46633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829112589108, "dur":336715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829112925831, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829112925845, "dur":3114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700829112929058, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1700829112929118, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829112929177, "dur":1744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1700829112930981, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1700829112931077, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829112931088, "dur":243867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1700829113175016, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1700829113175079, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829113175088, "dur":1919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":1, "ts":1700829113177079, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1700829113177139, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829113177149, "dur":96132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1700829113273339, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1700829113273524, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829113273531, "dur":2644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1700829113276241, "dur":90954, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1700829113367203, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700829113367215, "dur":2875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1700829113370151, "dur":511559, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829108931218, "dur":194, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829108931412, "dur":8799, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829108940227, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1700829108940452, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829108943191, "dur":5695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1700829108948955, "dur":18424, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1700829108967387, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829108967401, "dur":1891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1700829108969365, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1700829108969541, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829108969652, "dur":2928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1700829108972663, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1700829108972852, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829108972865, "dur":2676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1700829108975617, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1700829108975803, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829108976350, "dur":2630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1700829108979042, "dur":780, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1700829108979829, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829108979987, "dur":8079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1700829108988182, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1700829108988376, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829108988390, "dur":3924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1700829108992386, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1700829108992559, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829108992570, "dur":2713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1700829108995345, "dur":12378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109007731, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829109014971, "dur":2168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109017211, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1700829109017381, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829109017861, "dur":50454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1700829109068376, "dur":23075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109091459, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829109091958, "dur":1620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109093644, "dur":30802, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109124454, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829109124740, "dur":1704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109126524, "dur":58406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109184939, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829109184952, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109186752, "dur":59338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109246100, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829109246112, "dur":1607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109247787, "dur":343631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109591426, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829109591440, "dur":2441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109593955, "dur":214470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109808464, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829109808476, "dur":3464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109812028, "dur":51600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109863637, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829109863650, "dur":3389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829109867118, "dur":142366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110009489, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110009497, "dur":3402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110012968, "dur":44936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110057913, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110057925, "dur":1726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110059720, "dur":54209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110113938, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110113952, "dur":1881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110115924, "dur":82913, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110198847, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110198862, "dur":1771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110200887, "dur":36421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110237317, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110237330, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110238959, "dur":162587, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110401553, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110401566, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110403218, "dur":42115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110445342, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110445355, "dur":1978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110447399, "dur":55191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110502599, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110502612, "dur":1755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110504428, "dur":34021, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110538459, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110538473, "dur":1650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110540191, "dur":71663, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110611864, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110611878, "dur":1909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110613883, "dur":112872, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110726800, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110726815, "dur":2465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110729340, "dur":103149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110832498, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110832511, "dur":2394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110834964, "dur":87001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110921974, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829110921988, "dur":1540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829110923591, "dur":131516, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829111055116, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829111055169, "dur":2116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829111057354, "dur":206480, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829111263843, "dur":68, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829111263923, "dur":3182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829111267176, "dur":244934, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829111512120, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829111512134, "dur":2703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829111514903, "dur":127152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829111642064, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829111642077, "dur":18678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829111662354, "dur":922808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829112585170, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829112585184, "dur":3780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829112589024, "dur":700895, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829113289924, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829113289934, "dur":1882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700829113291923, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1700829113292142, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700829113292151, "dur":1289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1700829113293491, "dur":588266, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829108931203, "dur":202, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829108931405, "dur":8807, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829108940227, "dur":24490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1700829108964725, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829108964756, "dur":6467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1700829108971295, "dur":13048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1700829108984350, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829108984365, "dur":2090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1700829108986525, "dur":13162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1700829108999694, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829108999709, "dur":3880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1700829109003661, "dur":1887, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1700829109005556, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109005567, "dur":11498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1700829109017137, "dur":49268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter.exe" }}
+,{ "pid":12345, "tid":3, "ts":1700829109066413, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109066424, "dur":1883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter.exe" }}
+,{ "pid":12345, "tid":3, "ts":1700829109068364, "dur":93667, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109162040, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109162053, "dur":2906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109165029, "dur":64864, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109229902, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109229914, "dur":1932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109231954, "dur":50043, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109282006, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109282018, "dur":1772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109283870, "dur":33362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109317241, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109317253, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109318975, "dur":23530, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109342514, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109342526, "dur":3215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109345812, "dur":157559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109503380, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109503392, "dur":1844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109505307, "dur":23935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109529250, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109529263, "dur":1555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109530902, "dur":112853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109643764, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109643776, "dur":2845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109646701, "dur":225322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109872032, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109872046, "dur":2162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109874315, "dur":78307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109952631, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829109952644, "dur":1554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829109954261, "dur":54968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110009238, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110009251, "dur":4349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110013668, "dur":28939, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110042616, "dur":29, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110042655, "dur":3072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110045810, "dur":33568, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110079382, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110079390, "dur":1624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110081069, "dur":28601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110109679, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110109690, "dur":2669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110112427, "dur":75128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110187563, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110187576, "dur":1607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110189241, "dur":32639, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110221888, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110221901, "dur":2067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110224035, "dur":27906, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110251949, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110251963, "dur":1572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110253603, "dur":26736, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110280347, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110280359, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110282080, "dur":83047, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110365135, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110365188, "dur":1971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110367226, "dur":207608, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110574843, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110574857, "dur":4427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110579348, "dur":133838, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110713193, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110713206, "dur":2176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110715452, "dur":70221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110785682, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110785695, "dur":1570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110787336, "dur":46069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110833412, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829110833424, "dur":4625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829110838114, "dur":304774, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829111142897, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829111142912, "dur":17584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829111160568, "dur":96592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829111257168, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829111257182, "dur":2834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829111260099, "dur":368692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829111628800, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829111628813, "dur":30071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829111658969, "dur":306955, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829111965932, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829111965946, "dur":106435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829112072448, "dur":455946, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829112528401, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829112528415, "dur":21224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829112549707, "dur":707072, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829113256789, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829113256802, "dur":16344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700829113273208, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1700829113273278, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829113273288, "dur":3933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1700829113277287, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1700829113277391, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829113277401, "dur":3468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1700829113280934, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1700829113281000, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829113281009, "dur":1441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1700829113282520, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1700829113282583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829113282592, "dur":2893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1700829113285547, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1700829113285606, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829113285615, "dur":1789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1700829113287466, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1700829113287525, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829113287534, "dur":1750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1700829113289344, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1700829113289409, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829113289418, "dur":1403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1700829113290880, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1700829113290944, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700829113290952, "dur":1290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1700829113292300, "dur":589501, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829108931260, "dur":157, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829108931417, "dur":8792, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829108940227, "dur":52892, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1700829108993123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829108995892, "dur":1802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1700829108997766, "dur":198216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109195990, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109196136, "dur":7534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109203730, "dur":32507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109236245, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109236257, "dur":2089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109238413, "dur":28028, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109266449, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109266462, "dur":2211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109268750, "dur":28853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109297612, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109297626, "dur":1520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109299215, "dur":24324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109323547, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109323561, "dur":1548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109325174, "dur":26017, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109351199, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109351212, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109352899, "dur":24405, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109377313, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109377987, "dur":2212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109380265, "dur":193496, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109573769, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109573781, "dur":5178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109579028, "dur":229251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109808462, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109808476, "dur":2119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109810669, "dur":29694, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109840372, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109840385, "dur":1765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109842244, "dur":59446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109901698, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109901711, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109903519, "dur":37101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109940670, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829109940684, "dur":5344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829109946096, "dur":106563, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110052668, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110052684, "dur":2070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110054821, "dur":24470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110079300, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110079313, "dur":1830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110081208, "dur":26006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110107223, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110107236, "dur":1972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110109281, "dur":31425, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110140715, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110140727, "dur":10224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110151020, "dur":92905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110243932, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110243946, "dur":4457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110248471, "dur":28705, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110277184, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110277240, "dur":3121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110280427, "dur":24067, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110304501, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110304511, "dur":1832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110306415, "dur":42482, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110348905, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110348919, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110350593, "dur":23493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110374095, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110374109, "dur":2307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110376483, "dur":24149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110400641, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110400655, "dur":1409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110402149, "dur":28874, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110431032, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110431082, "dur":1620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110432773, "dur":24701, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110457481, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110457494, "dur":7188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110464758, "dur":201526, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110666292, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110666306, "dur":1780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110668152, "dur":154391, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110822551, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829110822565, "dur":1816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829110824460, "dur":413099, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829111237566, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829111237580, "dur":2173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829111239831, "dur":156595, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829111396435, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829111396487, "dur":1864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829111398420, "dur":135932, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829111534360, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829111534373, "dur":2474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829111536916, "dur":212332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829111749256, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829111749274, "dur":24783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829111774117, "dur":81534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829111855660, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829111855674, "dur":1810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829111857556, "dur":514668, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829112372232, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829112372245, "dur":2806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829112375157, "dur":155775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829112530939, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829112530951, "dur":319250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829112850278, "dur":1029660, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829113879947, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700829113879959, "dur":1562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Azerty/Desktop/Shooter for Yandex disk/Ultra shooter_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700829113881589, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":4, "ts":1700829113881592, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700829113889022, "dur":3333, "ph":"X", "name": "ProfilerWriteOutput" }
+,
